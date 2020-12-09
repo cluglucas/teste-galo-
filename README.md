@@ -1,1 +1,1 @@
-# teste-galo-
+Abrir com servidor interno.
